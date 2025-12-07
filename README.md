@@ -23,8 +23,13 @@ I frequently needed transcripts of Instagram reels for various purposes, but fou
 
 🎥 **A Small Demo to watch:** [ReelSummarizer Demo](https://youtu.be/jEnixmbFBII)
 
+
+
 ![alt text](<Screenshot 2025-12-07 135057.png>)
 ![alt text](<Screenshot 2025-12-07 135118-1.png>)
+
+
+
 
 ## Architecture
 
@@ -131,8 +136,6 @@ flowchart TD
 2. Send an Instagram reel URL to your bot in Telegram
 
 3. Receive the transcript, summary, and key lessons/insights
-
-![Bot Response Example](screenshots/bot_response.png)
 
 ## Technologies Used
 
