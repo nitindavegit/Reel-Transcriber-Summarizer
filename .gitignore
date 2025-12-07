@@ -1,0 +1,182 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.ENV/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.local
+.env.*.local
+.env.*
+!.env.example
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Project-specific
+# Sensitive configuration files with credentials
+config.py
+
+# Authentication cookies
+ig_cookies.json
+
+# Temporary audio/video files
+temp_*.mp4
+temp_*.mp3
+temp_*.wav
+temp_*.avi
+temp_*.mov
+temp_*.flv
+temp_*.webm
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Windows
+$RECYCLE.BIN/
+*.stackdump
+
+# Playwright
+.playwright/
+ms-playwright/
+
+# Whisper model cache (if stored locally)
+*.pt
+*.bin
+whisper_models/
+models/
+
+# Ollama (if models stored locally)
+.ollama/
+ollama_models/
+
+# Playwright screenshots/artifacts
+screenshots/
+playwright-report/
+test-results/
+
+# Ruff linter cache
+.ruff_cache/
+
+# Bandit security linter cache
+.bandit
+
+# Additional IDE files
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Backup files
+*.bak
+*.backup
+
+# Database files (if any are added later)
+*.db-journal
+*.sqlite3
+*.sqlite3-journal
+
+# Secrets directories
+secrets/
+.secrets
+
+# Large media files (additional formats)
+*.mkv
+*.m4v
+*.3gp
+*.ogg
+*.aac
+*.flac
