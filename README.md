@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A personal Telegram bot that transcribes and summarizes Instagram reels using AI.
+A personal Telegram bot that transcribes and summarizes Instagram reels using AI. **Runs completely offline on your local machine** - no server deployment required.
 
 ## Why I Built This
 
@@ -12,6 +12,7 @@ I frequently needed transcripts of Instagram reels for various purposes, but fou
 ## Features
 
 - 🚀 **Telegram Bot Interface**: Simple chat-based interaction
+- 💻 **Offline & Local**: Runs entirely on your laptop - no cloud servers needed
 - 📹 **Instagram Reel Processing**: Automated scraping and media extraction
 - 🎙️ **Audio Transcription**: High-accuracy speech-to-text using OpenAI Whisper
 - 🤖 **AI Summarization**: Intelligent content summarization with key insights
@@ -157,4 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built for personal use to solve a specific need in content analysis.*
+*✨ Built with ❤️ for personal use to solve a specific need in content analysis! 🚀*
